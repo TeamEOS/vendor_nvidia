@@ -34,11 +34,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/nvmm_sw_mp3dec.axf:system/etc/firmware/nvmm_sw_mp3dec.axf \
     $(LOCAL_PATH)/proprietary/nvmm_wavdec.axf:system/etc/firmware/nvmm_wavdec.axf \
     $(LOCAL_PATH)/proprietary/nvrm_avp.bin:system/etc/firmware/nvrm_avp.bin \
-    $(LOCAL_PATH)/proprietary/libEGL_perfhud.so:system/lib/egl/libEGL_perfhud.so \
     $(LOCAL_PATH)/proprietary/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
-    $(LOCAL_PATH)/proprietary/libGLESv1_CM_perfhud.so:system/lib/egl/libGLESv1_CM_perfhud.so \
     $(LOCAL_PATH)/proprietary/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
-    $(LOCAL_PATH)/proprietary/libGLESv2_perfhud.so:system/lib/egl/libGLESv2_perfhud.so \
     $(LOCAL_PATH)/proprietary/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
     $(LOCAL_PATH)/proprietary/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
     $(LOCAL_PATH)/proprietary/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
