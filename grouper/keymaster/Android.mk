@@ -28,6 +28,7 @@ LOCAL_SRC_FILES := \
 
 LOCAL_C_INCLUDES := \
 	libcore/include \
+        libnativehelper/include \
 	external/openssl/include \
 	$(LOCAL_PATH)/../security/tf_sdk/include
 
