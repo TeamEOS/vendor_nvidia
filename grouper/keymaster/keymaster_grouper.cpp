@@ -36,8 +36,8 @@
 #include <cryptoki.h>
 #include <pkcs11.h>
 
-#include <nativehelper/UniquePtr.h>
 
+#include <nativehelper/UniquePtr.h>
 
 /** The size of a key ID in bytes */
 #define ID_LENGTH 32
